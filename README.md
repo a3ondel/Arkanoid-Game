@@ -11,7 +11,7 @@
 # Current Progress
 * Whole Project is finished 
 
-#Game screenshots
+# Game screenshots
 ![menu] (./readme_files/menu.png)
 ![gameplay] (./readme_files/gameplay.png)
 
