@@ -1,9 +1,6 @@
 // Project_Arkanoid 
 // Author: Adam Trznadel
-///---------------------
-//
-//
-///---------------------
+
 
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
@@ -22,8 +19,7 @@
 
 
 
-//ctrl + k + d cleanup
-//alt+shift pisanie w wilu liniach
+
 
 constexpr int W_ = 1280;
 constexpr int H_ = 720;
