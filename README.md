@@ -1,4 +1,4 @@
-# Project Arkanoid
+# Arkanoid Game
 * Whole project is based on **[SFML](https://www.sfml-dev.org/index.php) library** 
 * Settings in visual studio are set for 32bit compilation
 * Include and lib folders are sfml folders 
