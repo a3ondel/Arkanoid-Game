@@ -11,8 +11,10 @@
 # Current Progress
 * Whole Project is finished 
 
-# Todo
-* Clean up code a bit and add some comments
+#Game screenshots
+![menu] (./readme_files/menu.png)
+![gameplay] (./readme_files/gameplay.png)
+
 
 **[last edit] 10.01.2020**
 
