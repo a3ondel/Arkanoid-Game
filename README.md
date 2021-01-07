@@ -12,8 +12,8 @@
 * Whole Project is finished 
 
 # Game screenshots
-![menu] (./readme_files/menu.png)
-![gameplay] (./readme_files/gameplay.png)
+![menu](./readme_files/menu.png)
+![gameplay](./readme_files/gameplay.png)
 
 
 **[last edit] 10.01.2020**
